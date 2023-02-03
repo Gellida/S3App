@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="nombre">Nombre</string>
+</resources>
